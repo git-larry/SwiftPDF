@@ -8,7 +8,7 @@ import { Progress } from '@/components/ui/progress';
 import { Label } from '@/components/ui/label';
 import { RadioGroup, RadioGroupItem } from '@/components/ui/radio-group';
 import { PhotoIcon, ArrowDownTrayIcon } from '@heroicons/react/24/outline';
-import FileUpload from '@/components/FileUpload';
+import FileUpload from '@/components/FileUploadSimple';
 import { PDFProcessor, ProcessingOptions } from '@/utils/pdfProcessing';
 
 export default function ImageToPDFTool() {

@@ -9,7 +9,7 @@ import { Label } from '@/components/ui/label';
 import { RadioGroup, RadioGroupItem } from '@/components/ui/radio-group';
 import { Input } from '@/components/ui/input';
 import { ArrowPathIcon, ArrowDownTrayIcon } from '@heroicons/react/24/outline';
-import FileUpload from '@/components/FileUpload';
+import FileUpload from '@/components/FileUploadSimple';
 import { PDFProcessor, RotationOptions } from '@/utils/pdfProcessing';
 
 export default function RotatePDFTool() {

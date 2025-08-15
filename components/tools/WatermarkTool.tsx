@@ -12,7 +12,7 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@
 import { Slider } from '@/components/ui/slider';
 import { Badge } from '@/components/ui/badge';
 import { PaintBrushIcon, ArrowDownTrayIcon, PhotoIcon, DocumentTextIcon } from '@heroicons/react/24/outline';
-import FileUpload from '@/components/FileUpload';
+import FileUpload from '@/components/FileUploadSimple';
 import { useProcessingHistory } from '@/hooks/useProcessingHistory';
 
 interface WatermarkConfig {

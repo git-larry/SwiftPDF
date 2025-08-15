@@ -6,7 +6,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/com
 import { Alert, AlertDescription } from '@/components/ui/alert';
 import { Progress } from '@/components/ui/progress';
 import { DocumentDuplicateIcon, ArrowDownTrayIcon } from '@heroicons/react/24/outline';
-import FileUpload from '@/components/FileUpload';
+import FileUpload from '@/components/FileUploadSimple';
 import { PDFProcessor, ProcessingOptions } from '@/utils/pdfProcessing';
 import { useProcessingHistory } from '@/hooks/useProcessingHistory';
 

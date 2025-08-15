@@ -9,7 +9,7 @@ import { Label } from '@/components/ui/label';
 import { Input } from '@/components/ui/input';
 import { Checkbox } from '@/components/ui/checkbox';
 import { TrashIcon, ArrowDownTrayIcon } from '@heroicons/react/24/outline';
-import FileUpload from '@/components/FileUpload';
+import FileUpload from '@/components/FileUploadSimple';
 import { PDFProcessor } from '@/utils/pdfProcessing';
 
 export default function DeletePagesPDFTool() {
