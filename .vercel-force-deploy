@@ -1,0 +1,4 @@
+# Archivo para forzar deploy en Vercel
+Timestamp: 2025-08-15T17:41:00Z
+Commit: e3bd68f
+Cambios: FileUploadSimple implementado, react-dropzone eliminado
