@@ -196,7 +196,6 @@ export default function FileUploadSimple({
       {isPreviewOpen && previewFile && (
         <PDFPreview
           file={previewFile}
-          isOpen={isPreviewOpen}
           onClose={closePreview}
         />
       )}
