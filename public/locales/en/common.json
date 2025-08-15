@@ -1,0 +1,80 @@
+{
+  "site": {
+    "title": "SwiftPDF",
+    "tagline": "Convert and edit PDF fast and easy",
+    "description": "Free online tools to process PDF files. Merge, split, compress, convert and more."
+  },
+  "navigation": {
+    "home": "Home",
+    "tools": "Tools",
+    "about": "About",
+    "contact": "Contact",
+    "language": "Language",
+    "theme": "Theme",
+    "lightMode": "Light Mode",
+    "darkMode": "Dark Mode"
+  },
+  "categories": {
+    "all": "All",
+    "conversion": "Conversion",
+    "editing": "Editing",
+    "security": "Security"
+  },
+  "search": {
+    "placeholder": "Search tools...",
+    "noResults": "No tools found",
+    "results": "tools found"
+  },
+  "hero": {
+    "title": "PDF Tools",
+    "subtitle": "Fast and Secure",
+    "description": "Process your PDF files for free and privately. All operations are performed in your browser.",
+    "cta": "Explore Tools"
+  },
+  "features": {
+    "free": {
+      "title": "100% Free",
+      "description": "All our tools are completely free with no limits."
+    },
+    "private": {
+      "title": "Total Privacy",
+      "description": "Your files are processed locally, never leave your browser."
+    },
+    "fast": {
+      "title": "Super Fast",
+      "description": "Instant processing with no waiting times."
+    }
+  },
+  "auth": {
+    "login": "Sign In",
+    "register": "Sign Up",
+    "logout": "Sign Out",
+    "email": "Email",
+    "password": "Password",
+    "name": "Name",
+    "loginButton": "Sign In",
+    "registerButton": "Create Account",
+    "loginSuccess": "Successfully signed in",
+    "registerSuccess": "Account created successfully",
+    "loginError": "Error signing in",
+    "registerError": "Error creating account"
+  },
+  "fileUpload": {
+    "dragDrop": "Drag and drop your files here",
+    "or": "or",
+    "selectFiles": "Select files",
+    "supportedFormats": "Supported formats:",
+    "maxSize": "Max size: 50MB",
+    "processing": "Processing...",
+    "download": "Download",
+    "error": "Error processing file"
+  },
+  "footer": {
+    "description": "SwiftPDF is a free PDF tools platform that ensures your privacy.",
+    "links": "Useful Links",
+    "legal": "Legal",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "support": "Support"
+  }
+}

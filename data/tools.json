@@ -1,0 +1,314 @@
+[
+  {
+    "slug": "unir-pdf",
+    "title": "Unir PDF Online Gratis | Combina Múltiples Archivos PDF",
+    "titleEn": "Merge PDF Online Free | Combine Multiple PDF Files",
+    "description": "Combina varios archivos PDF en un solo documento de forma rápida y segura. Nuestra herramienta online es totalmente gratuita y fácil de usar.",
+    "descriptionEn": "Combine multiple PDF files into a single document quickly and securely. Our online tool is completely free and easy to use.",
+    "keywords": "unir pdf, combinar pdf, unir pdf gratis, fusionar pdf, unir archivos pdf",
+    "keywordsEn": "merge pdf, combine pdf, merge pdf free, join pdf, unite pdf files",
+    "category": "edicion",
+    "categoryEn": "editing",
+    "icon": "document-duplicate",
+    "benefits": [
+      "Combina múltiples PDFs en segundos",
+      "Mantiene la calidad original",
+      "Procesamiento del lado del cliente",
+      "Totalmente gratuito"
+    ],
+    "benefitsEn": [
+      "Combine multiple PDFs in seconds",
+      "Maintains original quality",
+      "Client-side processing",
+      "Completely free"
+    ]
+  },
+  {
+    "slug": "dividir-pdf",
+    "title": "Dividir PDF Online Gratis | Separa Páginas de PDF",
+    "titleEn": "Split PDF Online Free | Separate PDF Pages",
+    "description": "Divide un PDF grande en varios archivos más pequeños. Extrae páginas específicas o separa cada página en un documento individual.",
+    "descriptionEn": "Split a large PDF into multiple smaller files. Extract specific pages or separate each page into individual documents.",
+    "keywords": "dividir pdf, separar paginas pdf, extraer paginas pdf, cortar pdf, dividir pdf gratis",
+    "keywordsEn": "split pdf, separate pdf pages, extract pdf pages, cut pdf, split pdf free",
+    "category": "edicion",
+    "categoryEn": "editing",
+    "icon": "scissors",
+    "benefits": [
+      "Extrae páginas específicas",
+      "Divide por rangos de páginas",
+      "Preserva el formato original",
+      "Descarga inmediata"
+    ],
+    "benefitsEn": [
+      "Extract specific pages",
+      "Split by page ranges",
+      "Preserves original format",
+      "Instant download"
+    ]
+  },
+  {
+    "slug": "comprimir-pdf",
+    "title": "Comprimir PDF Online Gratis | Reduce el Tamaño de un PDF",
+    "titleEn": "Compress PDF Online Free | Reduce PDF File Size",
+    "description": "Reduce el tamaño de tus archivos PDF sin perder calidad. Optimiza documentos para subirlos a la web o enviarlos por email.",
+    "descriptionEn": "Reduce the size of your PDF files without losing quality. Optimize documents for web upload or email sending.",
+    "keywords": "comprimir pdf, reducir tamaño pdf, optimizar pdf, comprimir pdf gratis",
+    "keywordsEn": "compress pdf, reduce pdf size, optimize pdf, compress pdf free",
+    "category": "edicion",
+    "categoryEn": "editing",
+    "icon": "archive-box-arrow-down",
+    "benefits": [
+      "Reducción de hasta 70% del tamaño",
+      "Mantiene la calidad visual",
+      "Optimización inteligente",
+      "Múltiples niveles de compresión"
+    ],
+    "benefitsEn": [
+      "Up to 70% size reduction",
+      "Maintains visual quality",
+      "Smart optimization",
+      "Multiple compression levels"
+    ]
+  },
+  {
+    "slug": "convertir-jpg-a-pdf",
+    "title": "Convertir JPG a PDF Online Gratis | Convierte Imágenes a PDF",
+    "titleEn": "Convert JPG to PDF Online Free | Convert Images to PDF",
+    "description": "Transforma imágenes JPG en un PDF profesional. Agrupa múltiples fotos en un solo documento fácilmente.",
+    "descriptionEn": "Transform JPG images into a professional PDF. Group multiple photos into a single document easily.",
+    "keywords": "jpg a pdf, convertir jpg a pdf, imagen a pdf, fotos a pdf, convertir imagen a pdf",
+    "keywordsEn": "jpg to pdf, convert jpg to pdf, image to pdf, photos to pdf, convert image to pdf",
+    "category": "conversion",
+    "categoryEn": "conversion",
+    "icon": "photo",
+    "benefits": [
+      "Soporta múltiples formatos de imagen",
+      "Ajuste automático de tamaño",
+      "Calidad de imagen preservada",
+      "Conversión por lotes"
+    ],
+    "benefitsEn": [
+      "Supports multiple image formats",
+      "Automatic size adjustment",
+      "Image quality preserved",
+      "Batch conversion"
+    ]
+  },
+  {
+    "slug": "convertir-word-a-pdf",
+    "title": "Convertir Word a PDF Online Gratis | Documentos de Word a PDF",
+    "titleEn": "Convert Word to PDF Online Free | Word Documents to PDF",
+    "description": "Convierte tus documentos de Microsoft Word a formato PDF en segundos. Mantén el formato original sin complicaciones.",
+    "descriptionEn": "Convert your Microsoft Word documents to PDF format in seconds. Maintain the original format without complications.",
+    "keywords": "word a pdf, convertir word a pdf, docx a pdf, documento a pdf",
+    "keywordsEn": "word to pdf, convert word to pdf, docx to pdf, document to pdf",
+    "category": "conversion",
+    "categoryEn": "conversion",
+    "icon": "document-text",
+    "benefits": [
+      "Preserva el formato original",
+      "Soporta DOCX y DOC",
+      "Mantiene enlaces e imágenes",
+      "Conversión instantánea"
+    ],
+    "benefitsEn": [
+      "Preserves original format",
+      "Supports DOCX and DOC",
+      "Maintains links and images",
+      "Instant conversion"
+    ]
+  },
+  {
+    "slug": "convertir-excel-a-pdf",
+    "title": "Convertir Excel a PDF Online Gratis | Tablas de Excel a PDF",
+    "titleEn": "Convert Excel to PDF Online Free | Excel Sheets to PDF",
+    "description": "Convierte hojas de cálculo de Excel a un PDF de alta calidad. Mantiene la estructura de celdas y el formato de tus tablas.",
+    "descriptionEn": "Convert Excel spreadsheets to high-quality PDF. Maintains cell structure and table formatting.",
+    "keywords": "excel a pdf, convertir excel a pdf, xls a pdf, hoja de calculo a pdf",
+    "keywordsEn": "excel to pdf, convert excel to pdf, xls to pdf, spreadsheet to pdf",
+    "category": "conversion",
+    "categoryEn": "conversion",
+    "icon": "table-cells",
+    "benefits": [
+      "Preserva fórmulas y formato",
+      "Soporta múltiples hojas",
+      "Mantiene gráficos y tablas",
+      "Alta resolución"
+    ],
+    "benefitsEn": [
+      "Preserves formulas and formatting",
+      "Supports multiple sheets",
+      "Maintains charts and tables",
+      "High resolution"
+    ]
+  },
+  {
+    "slug": "proteger-pdf",
+    "title": "Proteger PDF Online | Cifrar y Poner Contraseña a PDF",
+    "titleEn": "Protect PDF Online | Encrypt and Password Protect PDF",
+    "description": "Protege tus documentos PDF con una contraseña segura. Cifra archivos para garantizar su privacidad y seguridad.",
+    "descriptionEn": "Protect your PDF documents with a secure password. Encrypt files to ensure privacy and security.",
+    "keywords": "proteger pdf, poner contraseña pdf, cifrar pdf, seguridad pdf",
+    "keywordsEn": "protect pdf, password protect pdf, encrypt pdf, pdf security",
+    "category": "seguridad",
+    "categoryEn": "security",
+    "icon": "lock-closed",
+    "benefits": [
+      "Cifrado de 128 bits",
+      "Contraseñas personalizadas",
+      "Restricciones de permisos",
+      "Máxima seguridad"
+    ],
+    "benefitsEn": [
+      "128-bit encryption",
+      "Custom passwords",
+      "Permission restrictions",
+      "Maximum security"
+    ]
+  },
+  {
+    "slug": "desproteger-pdf",
+    "title": "Desproteger PDF Online | Quitar Contraseña de PDF",
+    "titleEn": "Unlock PDF Online | Remove PDF Password",
+    "description": "Elimina la contraseña de un archivo PDF si tienes el permiso para hacerlo. Desbloquea tus documentos para editarlos o imprimirlos.",
+    "descriptionEn": "Remove the password from a PDF file if you have permission to do so. Unlock your documents for editing or printing.",
+    "keywords": "desproteger pdf, quitar contraseña pdf, desbloquear pdf, eliminar seguridad pdf",
+    "keywordsEn": "unlock pdf, remove pdf password, unlock pdf, remove pdf security",
+    "category": "seguridad",
+    "categoryEn": "security",
+    "icon": "lock-open",
+    "benefits": [
+      "Desbloqueo instantáneo",
+      "Mantiene la calidad",
+      "Procesamiento seguro",
+      "Sin límites de uso"
+    ],
+    "benefitsEn": [
+      "Instant unlocking",
+      "Maintains quality",
+      "Secure processing",
+      "No usage limits"
+    ]
+  },
+  {
+    "slug": "rotar-pdf",
+    "title": "Rotar PDF Online Gratis | Gira Páginas de un PDF",
+    "titleEn": "Rotate PDF Online Free | Rotate PDF Pages",
+    "description": "Rota páginas de tu PDF en cualquier dirección. Corrige la orientación de documentos escaneados de manera sencilla y rápida.",
+    "descriptionEn": "Rotate pages of your PDF in any direction. Correct the orientation of scanned documents easily and quickly.",
+    "keywords": "rotar pdf, girar paginas pdf, rotar pdf gratis",
+    "keywordsEn": "rotate pdf, rotate pdf pages, rotate pdf free",
+    "category": "edicion",
+    "categoryEn": "editing",
+    "icon": "arrow-path",
+    "benefits": [
+      "Rotación por páginas específicas",
+      "Múltiples ángulos de rotación",
+      "Vista previa en tiempo real",
+      "Corrección automática"
+    ],
+    "benefitsEn": [
+      "Rotation by specific pages",
+      "Multiple rotation angles",
+      "Real-time preview",
+      "Automatic correction"
+    ]
+  },
+  {
+    "slug": "borrar-paginas-pdf",
+    "title": "Borrar Páginas de PDF Online Gratis | Elimina Páginas de un PDF",
+    "titleEn": "Delete PDF Pages Online Free | Remove Pages from PDF",
+    "description": "Elimina páginas no deseadas de tus archivos PDF. Selecciona las páginas que quieres borrar y guarda el documento final.",
+    "descriptionEn": "Remove unwanted pages from your PDF files. Select the pages you want to delete and save the final document.",
+    "keywords": "borrar paginas pdf, eliminar paginas pdf, quitar paginas pdf",
+    "keywordsEn": "delete pdf pages, remove pdf pages, delete pages from pdf",
+    "category": "edicion",
+    "categoryEn": "editing",
+    "icon": "trash",
+    "benefits": [
+      "Selección múltiple de páginas",
+      "Vista previa antes de borrar",
+      "Conserva el formato original",
+      "Eliminación precisa"
+    ],
+    "benefitsEn": [
+      "Multiple page selection",
+      "Preview before deletion",
+      "Preserves original format",
+      "Precise deletion"
+    ]
+  },
+  {
+    "slug": "extraccion-ocr",
+    "title": "Extracción OCR de PDF | Reconocimiento Óptico de Caracteres",
+    "titleEn": "PDF OCR Extraction | Optical Character Recognition",
+    "description": "Extrae texto de PDFs escaneados usando tecnología OCR avanzada. Convierte imágenes y documentos no editables en texto utilizable.",
+    "descriptionEn": "Extract text from scanned PDFs using advanced OCR technology. Convert images and non-editable documents into usable text.",
+    "keywords": "ocr pdf, extraer texto pdf, reconocimiento caracteres, digitalizar documento, texto escaneado",
+    "keywordsEn": "pdf ocr, extract text pdf, character recognition, digitize document, scanned text",
+    "category": "avanzado",
+    "categoryEn": "advanced",
+    "icon": "document-magnifying-glass",
+    "benefits": [
+      "Reconocimiento de múltiples idiomas",
+      "Preserva estructura y formato",
+      "Extracción de tablas y datos",
+      "Exportación en formato TXT"
+    ],
+    "benefitsEn": [
+      "Multi-language recognition",
+      "Preserves structure and format",
+      "Table and data extraction",
+      "TXT format export"
+    ]
+  },
+  {
+    "slug": "marca-agua",
+    "title": "Añadir Marca de Agua a PDF | Protege tu Contenido",
+    "titleEn": "Add Watermark to PDF | Protect Your Content",
+    "description": "Añade marcas de agua personalizadas a tus PDFs. Texto o imágenes con control completo de transparencia, posición y rotación.",
+    "descriptionEn": "Add custom watermarks to your PDFs. Text or images with full control over transparency, position and rotation.",
+    "keywords": "marca agua pdf, watermark pdf, proteger pdf, añadir logo pdf, marca agua texto",
+    "keywordsEn": "pdf watermark, watermark pdf, protect pdf, add logo pdf, text watermark",
+    "category": "seguridad",
+    "categoryEn": "security",
+    "icon": "paint-brush",
+    "benefits": [
+      "Marcas de agua de texto e imagen",
+      "Control total de transparencia",
+      "Múltiples posiciones disponibles",
+      "Vista previa en tiempo real"
+    ],
+    "benefitsEn": [
+      "Text and image watermarks",
+      "Full transparency control",
+      "Multiple positions available",
+      "Real-time preview"
+    ]
+  },
+  {
+    "slug": "metadatos-pdf",
+    "title": "Extracción de Metadatos PDF | Información del Documento",
+    "titleEn": "PDF Metadata Extraction | Document Information",
+    "description": "Extrae información detallada de metadatos de archivos PDF incluyendo propiedades, seguridad, fechas y datos técnicos.",
+    "descriptionEn": "Extract detailed metadata information from PDF files including properties, security, dates and technical data.",
+    "keywords": "metadatos pdf, información pdf, propiedades documento, datos técnicos pdf",
+    "keywordsEn": "pdf metadata, pdf information, document properties, pdf technical data",
+    "category": "avanzado",
+    "categoryEn": "advanced",
+    "icon": "information-circle",
+    "benefits": [
+      "Información completa del documento",
+      "Configuración de seguridad y permisos",
+      "Exportación CSV y JSON",
+      "Análisis de múltiples archivos"
+    ],
+    "benefitsEn": [
+      "Complete document information",
+      "Security and permissions settings",
+      "CSV and JSON export",
+      "Multiple file analysis"
+    ]
+  }
+]

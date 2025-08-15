@@ -1,0 +1,80 @@
+{
+  "site": {
+    "title": "SwiftPDF",
+    "tagline": "Convierte y edita PDF rápido y fácil",
+    "description": "Herramientas online gratuitas para procesar archivos PDF. Unir, dividir, comprimir, convertir y más."
+  },
+  "navigation": {
+    "home": "Inicio",
+    "tools": "Herramientas",
+    "about": "Acerca de",
+    "contact": "Contacto",
+    "language": "Idioma",
+    "theme": "Tema",
+    "lightMode": "Modo Claro",
+    "darkMode": "Modo Oscuro"
+  },
+  "categories": {
+    "all": "Todas",
+    "conversion": "Conversión",
+    "edicion": "Edición",
+    "seguridad": "Seguridad"
+  },
+  "search": {
+    "placeholder": "Buscar herramientas...",
+    "noResults": "No se encontraron herramientas",
+    "results": "herramientas encontradas"
+  },
+  "hero": {
+    "title": "Herramientas PDF",
+    "subtitle": "Rápidas y Seguras",
+    "description": "Procesa tus archivos PDF de forma gratuita y privada. Todas las operaciones se realizan en tu navegador.",
+    "cta": "Explorar Herramientas"
+  },
+  "features": {
+    "free": {
+      "title": "100% Gratuito",
+      "description": "Todas nuestras herramientas son completamente gratuitas sin límites."
+    },
+    "private": {
+      "title": "Privacidad Total",
+      "description": "Tus archivos se procesan localmente, nunca salen de tu navegador."
+    },
+    "fast": {
+      "title": "Súper Rápido",
+      "description": "Procesamiento instantáneo sin tiempos de espera."
+    }
+  },
+  "auth": {
+    "login": "Iniciar Sesión",
+    "register": "Registrarse",
+    "logout": "Cerrar Sesión",
+    "email": "Correo Electrónico",
+    "password": "Contraseña",
+    "name": "Nombre",
+    "loginButton": "Entrar",
+    "registerButton": "Crear Cuenta",
+    "loginSuccess": "Sesión iniciada correctamente",
+    "registerSuccess": "Cuenta creada correctamente",
+    "loginError": "Error al iniciar sesión",
+    "registerError": "Error al crear la cuenta"
+  },
+  "fileUpload": {
+    "dragDrop": "Arrastra y suelta tus archivos aquí",
+    "or": "o",
+    "selectFiles": "Selecciona archivos",
+    "supportedFormats": "Formatos soportados:",
+    "maxSize": "Tamaño máximo: 50MB",
+    "processing": "Procesando...",
+    "download": "Descargar",
+    "error": "Error al procesar el archivo"
+  },
+  "footer": {
+    "description": "SwiftPDF es una plataforma gratuita de herramientas PDF que garantiza tu privacidad.",
+    "links": "Enlaces Útiles",
+    "legal": "Legal",
+    "privacy": "Privacidad",
+    "terms": "Términos",
+    "support": "Soporte"
+  }
+}
