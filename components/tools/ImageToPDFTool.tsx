@@ -8,7 +8,7 @@ import { Progress } from '@/components/ui/progress';
 import { Label } from '@/components/ui/label';
 import { RadioGroup, RadioGroupItem } from '@/components/ui/radio-group';
 import { PhotoIcon, ArrowDownTrayIcon } from '@heroicons/react/24/outline';
-import FileUpload from '@/components/FileUploadSimple';
+import FileUploadSimple from '@/components/FileUploadSimple';
 import { PDFProcessor, ProcessingOptions } from '@/utils/pdfProcessing';
 
 export default function ImageToPDFTool() {
@@ -152,7 +152,7 @@ export default function ImageToPDFTool() {
           {/* Subida de archivos */}
           <div>
             <h3 className="text-lg font-semibold mb-3">Selecciona las imágenes</h3>
-            <FileUpload
+            <FileUploadSimple
               onFileSelect={handleFileSelect}
               acceptedFileTypes={['image/jpeg', 'image/jpg', 'image/png']}
               maxFiles={50}

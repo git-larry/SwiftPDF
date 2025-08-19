@@ -7,7 +7,7 @@ import { Alert, AlertDescription } from '@/components/ui/alert';
 import { Progress } from '@/components/ui/progress';
 import { Badge } from '@/components/ui/badge';
 import { InformationCircleIcon, ArrowDownTrayIcon, DocumentIcon, ClockIcon, UserIcon, CogIcon } from '@heroicons/react/24/outline';
-import FileUpload from '@/components/FileUploadSimple';
+import FileUploadSimple from '@/components/FileUploadSimple';
 import { useProcessingHistory } from '@/hooks/useProcessingHistory';
 
 interface PDFMetadata {
@@ -260,7 +260,7 @@ export default function MetadataTool() {
           {/* Subida de archivos */}
           <div>
             <h3 className="text-lg font-semibold mb-3">Selecciona archivos PDF</h3>
-            <FileUpload
+            <FileUploadSimple
               onFileSelect={handleFileSelect}
               acceptedFileTypes={['application/pdf']}
               maxFiles={20}

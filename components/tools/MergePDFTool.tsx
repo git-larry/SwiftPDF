@@ -6,7 +6,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/com
 import { Alert, AlertDescription } from '@/components/ui/alert';
 import { Progress } from '@/components/ui/progress';
 import { DocumentDuplicateIcon, ArrowDownTrayIcon } from '@heroicons/react/24/outline';
-import FileUpload from '@/components/FileUploadSimple';
+import FileUploadSimple from '@/components/FileUploadSimple';
 import { PDFProcessor, ProcessingOptions } from '@/utils/pdfProcessing';
 import { useProcessingHistory } from '@/hooks/useProcessingHistory';
 
@@ -124,7 +124,7 @@ export default function MergePDFTool() {
           {/* Subida de archivos */}
           <div>
             <h3 className="text-lg font-semibold mb-3">Selecciona los archivos PDF</h3>
-            <FileUpload
+            <FileUploadSimple
               onFileSelect={handleFileSelect}
               acceptedFileTypes={['application/pdf']}
               maxFiles={20}

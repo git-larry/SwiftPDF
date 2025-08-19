@@ -16,7 +16,8 @@
     "clean": "rm -rf .next out dist",
     "analyze": "cross-env ANALYZE=true npm run build",
     "test": "echo \"No tests specified\" && exit 0",
-    "prebuild": "echo 'Skipping type-check for production build'"
+    "prebuild": "echo 'Force clean build - no cache'",
+    "clear-cache": "rm -rf .next node_modules package-lock.json"
   },
   "keywords": [
     "pdf",
@@ -132,5 +133,6 @@
   "engines": {
     "node": ">=18.0.0",
     "npm": ">=8.0.0"
-  }
+  },
+  "timestamp": 1755567607749
 }

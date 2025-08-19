@@ -8,7 +8,7 @@ import { Progress } from '@/components/ui/progress';
 import { Input } from '@/components/ui/input';
 import { Label } from '@/components/ui/label';
 import { LockOpenIcon, ArrowDownTrayIcon, EyeIcon, EyeSlashIcon } from '@heroicons/react/24/outline';
-import FileUpload from '@/components/FileUploadSimple';
+import FileUploadSimple from '@/components/FileUploadSimple';
 import { PDFProcessor } from '@/utils/pdfProcessing';
 import { useProcessingHistory } from '@/hooks/useProcessingHistory';
 
@@ -155,7 +155,7 @@ export default function UnlockPDFTool() {
           {/* Subida de archivo */}
           <div>
             <h3 className="text-lg font-semibold mb-3">Selecciona el archivo PDF protegido</h3>
-            <FileUpload
+            <FileUploadSimple
               onFileSelect={handleFileSelect}
               acceptedFileTypes={['application/pdf']}
               maxFiles={1}

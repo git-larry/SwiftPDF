@@ -6,7 +6,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/com
 import { Alert, AlertDescription } from '@/components/ui/alert';
 import { Progress } from '@/components/ui/progress';
 import { TableCellsIcon, ArrowDownTrayIcon } from '@heroicons/react/24/outline';
-import FileUpload from '@/components/FileUploadSimple';
+import FileUploadSimple from '@/components/FileUploadSimple';
 import { useProcessingHistory } from '@/hooks/useProcessingHistory';
 
 export default function ExcelToPDFTool() {
@@ -113,7 +113,7 @@ export default function ExcelToPDFTool() {
           {/* Subida de archivo */}
           <div>
             <h3 className="text-lg font-semibold mb-3">Selecciona archivos de Excel</h3>
-            <FileUpload
+            <FileUploadSimple
               onFileSelect={handleFileSelect}
               acceptedFileTypes={[
                 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet',

@@ -1,0 +1,6 @@
+# Forzar limpieza de caché
+.next
+node_modules
+*.log
+.env.local
+.force-deploy-*

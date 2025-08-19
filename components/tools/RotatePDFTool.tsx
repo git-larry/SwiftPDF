@@ -9,7 +9,7 @@ import { Label } from '@/components/ui/label';
 import { RadioGroup, RadioGroupItem } from '@/components/ui/radio-group';
 import { Input } from '@/components/ui/input';
 import { ArrowPathIcon, ArrowDownTrayIcon } from '@heroicons/react/24/outline';
-import FileUpload from '@/components/FileUploadSimple';
+import FileUploadSimple from '@/components/FileUploadSimple';
 import { PDFProcessor, RotationOptions } from '@/utils/pdfProcessing';
 
 export default function RotatePDFTool() {
@@ -165,7 +165,7 @@ export default function RotatePDFTool() {
           {/* Subida de archivo */}
           <div>
             <h3 className="text-lg font-semibold mb-3">Selecciona el archivo PDF</h3>
-            <FileUpload
+            <FileUploadSimple
               onFileSelect={handleFileSelect}
               acceptedFileTypes={['application/pdf']}
               maxFiles={1}

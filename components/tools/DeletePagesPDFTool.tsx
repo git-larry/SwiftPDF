@@ -9,7 +9,7 @@ import { Label } from '@/components/ui/label';
 import { Input } from '@/components/ui/input';
 import { Checkbox } from '@/components/ui/checkbox';
 import { TrashIcon, ArrowDownTrayIcon } from '@heroicons/react/24/outline';
-import FileUpload from '@/components/FileUploadSimple';
+import FileUploadSimple from '@/components/FileUploadSimple';
 import { PDFProcessor } from '@/utils/pdfProcessing';
 
 export default function DeletePagesPDFTool() {
@@ -187,7 +187,7 @@ export default function DeletePagesPDFTool() {
           {/* Subida de archivo */}
           <div>
             <h3 className="text-lg font-semibold mb-3">Selecciona el archivo PDF</h3>
-            <FileUpload
+            <FileUploadSimple
               onFileSelect={handleFileSelect}
               acceptedFileTypes={['application/pdf']}
               maxFiles={1}

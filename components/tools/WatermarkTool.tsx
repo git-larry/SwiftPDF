@@ -12,7 +12,7 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@
 import { Slider } from '@/components/ui/slider';
 import { Badge } from '@/components/ui/badge';
 import { PaintBrushIcon, ArrowDownTrayIcon, PhotoIcon, DocumentTextIcon } from '@heroicons/react/24/outline';
-import FileUpload from '@/components/FileUploadSimple';
+import FileUploadSimple from '@/components/FileUploadSimple';
 import { useProcessingHistory } from '@/hooks/useProcessingHistory';
 
 interface WatermarkConfig {
@@ -351,7 +351,7 @@ export default function WatermarkTool() {
                 <div>
                   <Label className="text-base font-semibold">Imagen para Marca de Agua</Label>
                   <div className="mt-2">
-                    <FileUpload
+                    <FileUploadSimple
                       onFileSelect={handleImageWatermarkSelect}
                       acceptedFileTypes={['image/jpeg', 'image/png', 'image/gif']}
                       maxFiles={1}
@@ -428,7 +428,7 @@ export default function WatermarkTool() {
           {/* Subida de PDFs */}
           <div>
             <h3 className="text-lg font-semibold mb-3">Selecciona archivos PDF</h3>
-            <FileUpload
+            <FileUploadSimple
               onFileSelect={handleFileSelect}
               acceptedFileTypes={['application/pdf']}
               maxFiles={10}

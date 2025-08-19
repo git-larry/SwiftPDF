@@ -6,7 +6,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/com
 import { Alert, AlertDescription } from '@/components/ui/alert';
 import { Progress } from '@/components/ui/progress';
 import { DocumentMagnifyingGlassIcon, ArrowDownTrayIcon, EyeIcon } from '@heroicons/react/24/outline';
-import FileUpload from '@/components/FileUploadSimple';
+import FileUploadSimple from '@/components/FileUploadSimple';
 import { useProcessingHistory } from '@/hooks/useProcessingHistory';
 
 export default function OCRTool() {
@@ -165,7 +165,7 @@ Documento: 12345678
           {/* Subida de archivo */}
           <div>
             <h3 className="text-lg font-semibold mb-3">Selecciona archivos PDF o imágenes</h3>
-            <FileUpload
+            <FileUploadSimple
               onFileSelect={handleFileSelect}
               acceptedFileTypes={[
                 'application/pdf',
